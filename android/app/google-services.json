@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356804294554",
+    "project_id": "pushsimple-a5a7d",
+    "storage_bucket": "pushsimple-a5a7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356804294554:android:6f1bb424f5a75aa3386c23",
+        "android_client_info": {
+          "package_name": "com.example.fluttermesseging1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACiUdj_jjBQqbUF3KTP0ey0BQJ1DpZC_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
